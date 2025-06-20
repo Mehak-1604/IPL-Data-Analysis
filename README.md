@@ -13,6 +13,6 @@ Total wins by teams in the season.
 Season Filter: Ability to select the season.
 
 # Tools Used
-Power BI for data visualization
-Excel as data source
-DAX & Power Query for data transformation
+Power BI for data visualization,
+Excel as data source,
+DAX & Power Query for data transformation.
